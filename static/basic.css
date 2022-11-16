@@ -42,7 +42,7 @@ body {
     padding-right: 40px;
     padding-left: 10px;
     float: left;
-    border-bottom: 2px solid white;
+    /*border-bottom: 1px solid blue;*/
   }
   
   /* Formatting for paragraph text */
