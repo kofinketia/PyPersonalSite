@@ -38,6 +38,7 @@ def resumeDemo():
         #name=request.form['name']
     return render_template('resume.html', name=name)
 
+
 @app.route('/projects', methods=['GET', 'POST'])
 def projectsDemo():
     name = None
